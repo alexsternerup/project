@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Green Solutions Inc. | About Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Green Solutions Inc.</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="employees.html">Our Team</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="policies.html">Policies</a></li>
+                <li><a href="contact_us.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>About Us</h2>
+        <p><strong>Green Solutions Inc.</strong> was founded in 2015 with a mission to provide eco-friendly products and services. We focus on sustainable packaging, green consulting, and local, organic products to help individuals and businesses reduce their environmental impact.</p>
+
+        <h3>Why Choose Us?</h3>
+        <ul>
+            <li>100% recyclable packaging.</li>
+            <li>Locally sourced, organic products.</li>
+            <li>Green consulting services to help businesses reduce their carbon footprint.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Green Solutions Inc.</p>
+    </footer>
+</body>
+</html>
